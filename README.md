@@ -24,6 +24,20 @@ I enjoy taking an idea from concept to a working product — from designing inte
 <tr>
 <td width="50%">
 
+## 📚 Currently Learning
+
+- Full-stack application architecture
+- Backend development & API design
+- Database design and management
+- Networking & infrastructure
+- Software engineering best practices
+
+## 🎯 What I'm Interested In
+
+I'm interested in building practical software, understanding how systems work under the hood, and continuously improving my ability to turn ideas into reliable products.
+
+I'm particularly interested in the intersection of **software development, mathematics, and technology**.
+
 ### 💕 Love-Link
 
 A private couples application designed to help partners stay connected through messaging, shared memories, daily check-ins, moods, and other relationship-focused features.
