@@ -1,4 +1,12 @@
-# Hi, I'm Ayomide 👋
+<h1 align="center">Hi, I'm Ayomide 👋</h1>
+
+<p align="center">
+  <strong>Industrial Mathematics Student • Developer • Builder</strong>
+</p>
+
+<p align="center">
+  I build digital products, explore technology, and turn ideas into working software.
+</p>
 
 I'm an Industrial Mathematics student interested in software development, technology, and building useful digital products.
 
