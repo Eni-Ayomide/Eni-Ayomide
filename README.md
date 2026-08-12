@@ -12,6 +12,12 @@ I'm an Industrial Mathematics student interested in software development, techno
 
 I enjoy taking an idea from concept to a working product — from designing interfaces and building applications to working with databases and APIs.
 
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,express,postgres,git,github,vscode" />
+</p>
+
 ## What I'm Working With
 
 - **Languages:** JavaScript, TypeScript, HTML, CSS
