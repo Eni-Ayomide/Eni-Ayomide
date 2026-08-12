@@ -18,6 +18,68 @@ I enjoy taking an idea from concept to a working product — from designing inte
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,express,postgres,git,github,vscode" />
 </p>
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 💕 Love-Link
+
+A private couples application designed to help partners stay connected through messaging, shared memories, daily check-ins, moods, and other relationship-focused features.
+
+**Built with:** React Native · Expo · Node.js · PostgreSQL
+
+<a href="https://github.com/Pandapaw-dev/Love-Link">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🏛️ Eulogia & Eulogies
+
+A premium architecture, urban planning, and development studio website focused on visual presentation, modern design, and responsive user experiences.
+
+**Built with:** React · TypeScript · Vite · Tailwind CSS
+
+<a href="YOUR-EULOGIA-REPO-LINK">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎤 TEDx Covenant University
+
+A modern, responsive landing page designed for TEDx Covenant University, with a focus on event branding, speaker presentation, and user experience.
+
+**Built with:** React · TypeScript · Vite · Tailwind CSS
+
+<a href="YOUR-TEDX-REPO-LINK">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🔨 More Projects
+
+I'm continuously building and experimenting with new ideas across web development, mobile applications, and software engineering.
+
+<a href="https://github.com/Pandapaw-dev?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
 ## What I'm Working With
 
 - **Languages:** JavaScript, TypeScript, HTML, CSS
