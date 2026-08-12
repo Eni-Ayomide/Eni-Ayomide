@@ -1,0 +1,40 @@
+# Hi, I'm Ayomide 👋
+
+I'm an Industrial Mathematics student interested in software development, technology, and building useful digital products.
+
+I enjoy taking an idea from concept to a working product — from designing interfaces and building applications to working with databases and APIs.
+
+## What I'm Working With
+
+- **Languages:** JavaScript, TypeScript, HTML, CSS
+- **Frontend:** React, Next.js, React Native, Expo, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Databases:** PostgreSQL, Drizzle ORM
+- **Tools:** Git, GitHub, VS Code
+
+## Featured Projects
+
+### 💕 Love-Link
+A private relationship and couples application built with React Native, Expo, Node.js, and PostgreSQL.
+
+### 🏛️ Eulogia & Eulogies
+A premium architecture, urban planning, and development studio website focused on visual design and responsive web experiences.
+
+### 🎤 TEDx Covenant University
+A modern, responsive landing page designed for TEDx Covenant University.
+
+## Currently Learning
+
+- Full-stack application development
+- Backend architecture and APIs
+- Database design
+- Software engineering practices
+- Networking and infrastructure
+
+## Beyond Code
+
+I'm also interested in mathematics, technology, entrepreneurship, and understanding how things work.
+
+---
+
+*Always learning. Always building.*
