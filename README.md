@@ -38,6 +38,13 @@ I'm interested in building practical software, understanding how systems work un
 
 I'm particularly interested in the intersection of **software development, mathematics, and technology**.
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pandapaw-dev&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pandapaw-dev&layout=compact&hide_border=true" height="170" />
+</p>
+
 ### 💕 Love-Link
 
 A private couples application designed to help partners stay connected through messaging, shared memories, daily check-ins, moods, and other relationship-focused features.
