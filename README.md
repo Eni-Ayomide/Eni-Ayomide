@@ -162,22 +162,13 @@ An interactive mathematical exploration and visualization project combining soft
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Analytics" width="100%">
+</p>
 
-<img
-  src="https://raw.githubusercontent.com/Eni-Ayomide/Eni-Ayomide/gh-pages/github-metrics.svg"
-  alt="GitHub Analytics"
-  width="100%"
-/>
+---
 
-<br><br>
-
-<img
-  src="https://streak-stats.demolab.com?user=Eni-Ayomide&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-</div>
+## 🐍 My Contributions
 ---
 ## 🐍 My Contributions
 
