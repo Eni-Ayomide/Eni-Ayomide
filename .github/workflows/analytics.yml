@@ -1,1 +1,35 @@
+name: Generate GitHub Analytics
 
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          user: Eni-Ayomide
+          template: classic
+          config_timezone: Africa/Lagos
+          base: header, activity, community, repositories
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
+          config_output: svg
+          filename: github-metrics.svg
+
+      - name: Publish metrics
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: .
+          target_branch: gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
