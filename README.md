@@ -175,7 +175,6 @@ An interactive mathematical exploration and visualization project combining soft
 </div>
 
 ---
-
 ## 🐍 My Contributions
 
 <div align="center">
@@ -183,15 +182,15 @@ An interactive mathematical exploration and visualization project combining soft
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Eni-Ayomide/Eni-Ayomide/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Eni-Ayomide/Eni-Ayomide/gh-pages/github-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Eni-Ayomide/Eni-Ayomide/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/Eni-Ayomide/Eni-Ayomide/gh-pages/github-snake.svg"
   />
   <img
     alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Eni-Ayomide/Eni-Ayomide/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/Eni-Ayomide/Eni-Ayomide/gh-pages/github-snake.svg"
   />
 </picture>
 
