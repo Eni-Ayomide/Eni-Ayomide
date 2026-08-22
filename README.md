@@ -164,16 +164,20 @@ An interactive mathematical exploration and visualization project combining soft
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eni-Ayomide&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eni-Ayomide&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img
+  src="https://raw.githubusercontent.com/Eni-Ayomide/Eni-Ayomide/gh-pages/github-metrics.svg"
+  alt="GitHub Analytics"
+  width="100%"
+/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Eni-Ayomide&theme=tokyonight&hide_border=true"/>
+<img
+  src="https://streak-stats.demolab.com?user=Eni-Ayomide&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
-
 ---
 ## 🐍 My Contributions
 
