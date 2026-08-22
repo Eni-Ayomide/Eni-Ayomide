@@ -167,9 +167,6 @@ An interactive mathematical exploration and visualization project combining soft
 </p>
 
 ---
-
-## 🐍 My Contributions
----
 ## 🐍 My Contributions
 
 <div align="center">
